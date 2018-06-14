@@ -25,8 +25,7 @@
     "style-loader": "^0.21.0",
     "web3": "^0.20.0",
     "webpack": "^4.12.0",
-    "webpack-cli": "^3.0.3",
-    "webpack-command": "^0.2.1"
+    "webpack-cli": "^3.0.3"
   },
   "dependencies": {
     "bignumber.js": "^7.2.1"
